@@ -14,7 +14,7 @@ A simple, user-friendly application to calculate Body Mass Index (BMI) based on 
 
 ## **Screenshot**  
 Below is a preview of the BMI Calculator interface:  
-![BMI Calculator Screenshot](output.png)
+![BMI Calculator Screenshot](./assets/output.png)
 
 ---
 
