@@ -15,7 +15,7 @@ The BMI Calculator is a web-based application designed to help users easily calc
 ---
 
 ## **Screenshot**  
-![BMI Calculator Interface](./assets/bmi-calculator.png)  
+![BMI Calculator Interface](./assets/output.png)  
 *A preview of the application interface showcasing its simplicity and functionality.*  
 
 ---
