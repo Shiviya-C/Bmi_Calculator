@@ -22,9 +22,8 @@ The BMI Calculator is a web-based application designed to help users easily calc
 
 ## **How It Works**  
 The BMI Calculator uses the standard formula:  
-\[
-\text{BMI} = \frac{\text{Weight (kg)}}{\text{Height (m)}^2}
-\]  
+BMI = Weight (kg) / Height (m)}^2
+ 
 
 Based on the BMI value, users are categorized as:  
 - **Underweight**: BMI < 18.5  
