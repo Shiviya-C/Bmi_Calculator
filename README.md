@@ -48,5 +48,6 @@ BMI = Weight(kg) / Height(m)2
 ---
 
 ## **About**  
+
 This project serves as a handy tool for quickly determining BMI and understanding weight categories. It's an ideal app for personal use or to include in larger health-focused platforms.  
 ---
